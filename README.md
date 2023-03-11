@@ -1,2 +1,2 @@
-# resume-challenge
+# AWS Resume Challenge
 Resume Project
